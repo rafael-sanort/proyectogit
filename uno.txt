@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 primera linea
+=======
+segunda linea
+>>>>>>> ramados
